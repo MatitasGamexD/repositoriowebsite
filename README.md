@@ -7,4 +7,4 @@ inicio del usuario
 ganacia del computador
 Casos de empate
 
-todo este proceso de creacion sera envidenciado en un documento de tipo Informe.
+todo este proceso de creacion sera envidenciado en un documento de tipo Informe. :D
